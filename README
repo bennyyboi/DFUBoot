@@ -1,0 +1,7 @@
+DFUBoot
+
+Allows you to force your iDevice into a DFU mode loop, which helps if you got a broken home button or sleep/wake button.
+
+However this tool has a remaining issue that I don't have time to fix which the IPSW rebuilding, it'll rebuild it and everything but it never validates in iTunes. So if this issue is fixed then there won't be any problem slipping it through iTunes.
+
+- [bennyyboi]

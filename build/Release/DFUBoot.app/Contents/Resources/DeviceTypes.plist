@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iPodTouch1G</key>
+	<string>n45ap</string>
+	<key>iPodTouch2G</key>
+	<string>n72ap</string>
+	<key>iPodTouch3G</key>
+	<string>n18ap</string>
+	<key>iPodTouch4G</key>
+	<string>n81ap</string>
+	<key>iPhone2G</key>
+	<string>m68ap</string>
+	<key>iPhone3G</key>
+	<string>n82ap</string>
+	<key>iPhone3GS</key>
+	<string>n88ap</string>
+	<key>iPhone4</key>
+	<string>n90ap</string>
+	<key>iPad</key>
+	<string>k48ap</string>
+</dict>
+</plist>

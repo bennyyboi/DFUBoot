@@ -1,0 +1,276 @@
+TDFUBoot
+v7
+r0
+t309684615.167542
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Info.plist" DFUBoot-Info.plist
+cCopyStringsFile "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/English.lproj/MainMenu.xib"
+cCopyPlistFile "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/DeviceTypes.plist" DeviceTypes.plist
+cCopyPlistFile "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/DeviceProcessors.plist" DeviceProcessors.plist
+cProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DFUBoot_Prefix-foscdwiwltjwitceaxykewwdaerp/DFUBoot_Prefix.pch.gch DFUBoot_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/main.o "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/DFUBootAppDelegate.o "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/MacOS/DFUBoot" normal i386
+cTouch "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.h
+c000000004CC281130000000000000378
+t1287815443
+s888
+i<Cocoa/Cocoa.h>
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m
+c000000004CC532020000000000001E09
+t1287991810
+s7689
+i"DFUBootAppDelegate.h"
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBoot_Prefix.pch
+c000000004CC2683A0000000000000091
+t1287809082
+s145
+i<Cocoa/Cocoa.h>
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DevicePlatforms.plist
+c000000004CC528FF000000000000026B
+t1287989503
+s619
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DeviceProcessors.plist
+c000000004CC5320600000000000003BC
+t1287991814
+s956
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DeviceTypes.plist
+c000000004CC5298C0000000000000259
+t1287989644
+s601
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/English.lproj/InfoPlist.strings
+c000000004CC2683A000000000000002D
+t1287809082
+s45
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/English.lproj/MainMenu.xib
+c000000004CC362DC00000000000317C9
+t1287873244
+s202697
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/IPSWTypes.plist
+c000000004CC52B5F00000000000000B5
+t1287990111
+s181
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/DFUBoot.LinkFileList
+c000000004CC269C30000000000000102
+t1287809475
+s258
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/DFUBootAppDelegate.o
+t1287991815
+s39672
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/main.o
+t1287809477
+s4888
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app
+t1287991815
+s102
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Info.plist
+t1287809475
+s886
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/MacOS/DFUBoot
+t1287991815
+s24628
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/PkgInfo
+t1287809475
+s8
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/DevicePlatforms.plist
+t1287989756
+s619
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/DeviceProcessors.plist
+t1287991814
+s956
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/DeviceTypes.plist
+t1287989756
+s601
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1287809475
+s92
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/English.lproj/MainMenu.nib
+t1287873246
+s38817
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/IPSWTypes.plist
+t2
+s0
+
+N/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/main.m
+c000000004CC2683A00000000000000EE
+t1287809082
+s238
+i<Cocoa/Cocoa.h>
+
+N/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DFUBoot_Prefix-foscdwiwltjwitceaxykewwdaerp/DFUBoot_Prefix.pch.gch
+t1287809477
+s38344684
+
+NDFUBoot-Info.plist
+c000000004CC2683A00000000000003EA
+t1287809082
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309684614#309684614#0(0"0(0#1#0"2574409664#0"0#
+
+CCompileC build/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/DFUBootAppDelegate.o "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309684614.828597
+e309684615.082567
+r1
+xCompileC
+xbuild/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/DFUBootAppDelegate.o
+x/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m: In function '-[DFUBootAppDelegate openPanelDidEnd:returnCode:contextInfo:]':
+o/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:40: warning: passing argument 1 of 'startAnimation:' makes pointer from integer without a cast
+o/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:59: warning: format not a string literal and no format arguments
+o/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:61: warning: format not a string literal and no format arguments
+o/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:65: warning: 'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)
+o/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:75: warning: 'movePath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:173)
+o/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:95: warning: passing argument 1 of 'stopAnimation:' makes pointer from integer without a cast
+o/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:98: warning: 'return' with a value, in function returning void
+o/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:121: warning: 'directoryContentsAtPath:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:164)
+o/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:165: warning: unused variable 'filesToOpen'
+o/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:74: warning: unused variable 'newPath'
+lSLF07#2@83"Compile /Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m309684614#309684615#0(1902"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m: In function '-[DFUBootAppDelegate openPanelDidEnd:returnCode:contextInfo:]':/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:40: warning: passing argument 1 of 'startAnimation:' makes pointer from integer without a cast/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:59: warning: format not a string literal and no format arguments/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:61: warning: format not a string literal and no format arguments/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:65: warning: 'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:75: warning: 'movePath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:173)/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:95: warning: passing argument 1 of 'stopAnimation:' makes pointer from integer without a cast/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:98: warning: 'return' with a value, in function returning void/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:121: warning: 'directoryContentsAtPath:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:164)/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:165: warning: unused variable 'filesToOpen'/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m:74: warning: unused variable 'newPath'10(22@81"Passing argument 1 of 'startAnimation:' makes pointer from integer without a cast309684614#154#171#0(6@75"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m309684610#40#0#40#0#0"0(22@51"Format not a string literal and no format arguments309684614#325#141#0(6@75"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m309684610#59#0#59#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments309684614#466#141#0(6@75"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m309684610#61#0#61#0#51"format not a string literal and no format arguments0(22@160"'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)309684614#607#250#0(6@75"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m309684610#65#0#65#0#33"'*' is deprecated (declared at *)0(22@160"'movePath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:173)309684614#857#250#0(6@75"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m309684610#75#0#75#0#33"'*' is deprecated (declared at *)0(22@80"Passing argument 1 of 'stopAnimation:' makes pointer from integer without a cast309684614#1107#170#0(6@75"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m309684610#95#0#95#0#0"0(22@49"'return' with a value, in function returning void309684614#1277#139#0(6@75"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m309684610#98#0#98#0#0"0(22@160"'directoryContentsAtPath:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:164)309684614#1416#251#0(6@75"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m309684610#121#0#121#0#33"'*' is deprecated (declared at *)0(22@29"Unused variable 'filesToOpen'309684614#1667#120#0(6@75"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m309684610#165#0#165#0#19"unused variable '*'0(22@25"Unused variable 'newPath'309684614#1787#115#0(6@75"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m309684610#74#0#74#0#19"unused variable '*'0(0#0#75"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m2574409664#1670"    cd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/include" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DerivedSources/i386" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DerivedSources" -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DFUBoot_Prefix-foscdwiwltjwitceaxykewwdaerp/DFUBoot_Prefix.pch -c "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBootAppDelegate.m" -o "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/DFUBootAppDelegate.o"0#
+
+CCompileC build/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/main.o "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309502277.564408
+e309502277.678784
+r1
+xCompileC
+xbuild/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/main.o
+x/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Bennyy/Documents/My Applications/iTools/DFUBoot/main.m309502277#309502277#0(0"0(0#0#61"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/main.m2574409664#1642"    cd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/include" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DerivedSources/i386" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DerivedSources" -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DFUBoot_Prefix-foscdwiwltjwitceaxykewwdaerp/DFUBoot_Prefix.pch -c "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/main.m" -o "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/English.lproj/MainMenu.xib"
+s309566046.184131
+e309566046.506779
+r1
+xCompileXIB
+x/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/English.lproj/MainMenu.xib
+o2010-10-23 23:34:06.216 ibtool[9729:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib309566046#309566046#0(108"2010-10-23 23:34:06.216 ibtool[9729:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#81"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/English.lproj/MainMenu.xib2574409664#418"    cd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyPlistFile "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/DevicePlatforms.plist" DevicePlatforms.plist
+s309682556.242578
+e309682556.481456
+r1
+xCopyPlistFile
+x/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/DevicePlatforms.plist
+xDevicePlatforms.plist
+lSLF07#2@26"Copy DevicePlatforms.plist309682556#309682556#0(0"0(0#0#76"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DevicePlatforms.plist2574409664#286"    cd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist DevicePlatforms.plist --outdir "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources"0#
+
+CCopyPlistFile "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/DeviceProcessors.plist" DeviceProcessors.plist
+s309684614.786368
+e309684614.828372
+r1
+xCopyPlistFile
+x/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/DeviceProcessors.plist
+xDeviceProcessors.plist
+lSLF07#2@27"Copy DeviceProcessors.plist309684614#309684614#0(0"0(0#0#77"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DeviceProcessors.plist2574409664#287"    cd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist DeviceProcessors.plist --outdir "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources"0#
+
+CCopyPlistFile "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/DeviceTypes.plist" DeviceTypes.plist
+s309682556.243386
+e309682556.465046
+r1
+xCopyPlistFile
+x/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/DeviceTypes.plist
+xDeviceTypes.plist
+lSLF07#2@22"Copy DeviceTypes.plist309682556#309682556#0(0"0(0#0#72"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DeviceTypes.plist2574409664#282"    cd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist DeviceTypes.plist --outdir "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources"0#
+
+CCopyPlistFile "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/IPSWTypes.plist" IPSWTypes.plist
+r0
+
+CCopyStringsFile "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s309502275.219936
+e309502275.294635
+r1
+xCopyStringsFile
+x/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings309502275#309502275#0(0"0(0#0#86"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/English.lproj/InfoPlist.strings2574409664#401"    cd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/MacOS/DFUBoot" normal i386
+s309684615.082659
+e309684615.164775
+r1
+xLd
+x/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/MacOS/DFUBoot
+xnormal
+xi386
+lSLF07#2@106"Link /Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/MacOS/DFUBoot309684615#309684615#0(0"0(0#0#0"2574409664#628"    cd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug" "-F/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug" -filelist "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/Objects-normal/i386/DFUBoot.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/MacOS/DFUBoot"0#
+
+CProcessInfoPlistFile "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Info.plist" DFUBoot-Info.plist
+s309502275.216754
+e309502275.219868
+r1
+xProcessInfoPlistFile
+x/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Info.plist
+xDFUBoot-Info.plist
+lSLF07#2@26"Process DFUBoot-Info.plist309502275#309502275#0(0"0(0#0#73"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBoot-Info.plist2574409664#364"    cd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot"    builtin-infoPlistUtility DFUBoot-Info.plist -genpkginfo "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DFUBoot_Prefix-foscdwiwltjwitceaxykewwdaerp/DFUBoot_Prefix.pch.gch DFUBoot_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309502275.540026
+e309502277.564241
+r1
+xProcessPCH
+x/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DFUBoot_Prefix-foscdwiwltjwitceaxykewwdaerp/DFUBoot_Prefix.pch.gch
+xDFUBoot_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile DFUBoot_Prefix.pch309502275#309502277#0(0"0(0#0#73"/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBoot_Prefix.pch2574409664#1532"    cd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DFUBoot-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/include" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DerivedSources/i386" "-I/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/DFUBoot.build/Debug/DFUBoot.build/DerivedSources" -c "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBoot_Prefix.pch" -o /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DFUBoot_Prefix-foscdwiwltjwitceaxykewwdaerp/DFUBoot_Prefix.pch.gch0#
+
+CTouch "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app"
+s309684615.164871
+e309684615.167510
+r1
+xTouch
+x/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app
+lSLF07#2@84"Touch /Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app309684615#309684615#0(0"0(0#0#0"2574409664#167"    cd "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot"    /usr/bin/touch -c "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/build/Debug/DFUBoot.app"0#
+

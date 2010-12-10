@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>DataPoints</key>
+    <array>
+        <dict>
+            <key>source</key>
+            <string>BloomBerg</string>
+            <key>date</key>
+            <date>2010-01-31T14:54:13Z</date>
+            <key>value</key>
+            <integer>1233</integer>
+        </dict>
+        <dict>
+            <key>source</key>
+            <string>BloomBerg</string>
+            <key>date</key>
+            <date>2010-02-02T14:54:13Z</date>
+            <key>value</key>
+            <integer>1235</integer>
+        </dict>
+        <dict>
+            <key>source</key>
+            <string>BloomBerg</string>
+            <key>date</key>
+            <date>2010-01-31T14:54:13Z</date>
+            <key>value</key>
+            <integer>1230</integer>
+        </dict>
+    </array>
+</dict>
+</plist>

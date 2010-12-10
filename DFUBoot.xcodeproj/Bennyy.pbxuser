@@ -1,0 +1,302 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 595}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* DFUBootAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 559}}";
+			sepNavSelRange = "{1051, 0}";
+			sepNavVisRange = "{0, 1328}";
+			sepNavWindowFrame = "{{38, 364}, {1138, 638}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* DFUBootAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 5876}}";
+			sepNavSelRange = "{8900, 513}";
+			sepNavVisRange = "{536, 1131}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 82FA351012729FBA0071C1E7 /* DFUBoot */;
+		activeTarget = 8D1107260486CEB800E47090 /* DFUBoot */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* DFUBoot */,
+		);
+		codeSenseManager = 82FA351D12729FC60071C1E7 /* Code sense */;
+		executables = (
+			82FA351012729FBA0071C1E7 /* DFUBoot */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					484,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313675053;
+			PBXWorkspaceStateSaveDate = 313675053;
+		};
+		perUserProjectItems = {
+			8256A6F812B24CBE0034E2EE = 8256A6F812B24CBE0034E2EE /* PBXTextBookmark */;
+			8256A70712B24CEF0034E2EE = 8256A70712B24CEF0034E2EE /* PBXTextBookmark */;
+			8256A71012B24D310034E2EE /* PBXTextBookmark */ = 8256A71012B24D310034E2EE /* PBXTextBookmark */;
+			8256A71112B24D310034E2EE /* PBXTextBookmark */ = 8256A71112B24D310034E2EE /* PBXTextBookmark */;
+			8256A71612B24D310034E2EE /* PBXBookmark */ = 8256A71612B24D310034E2EE /* PBXBookmark */;
+			8256A71712B24D310034E2EE /* PBXTextBookmark */ = 8256A71712B24D310034E2EE /* PBXTextBookmark */;
+			8256A71A12B24D310034E2EE /* PBXBookmark */ = 8256A71A12B24D310034E2EE /* PBXBookmark */;
+			8256A71B12B24D310034E2EE /* PBXTextBookmark */ = 8256A71B12B24D310034E2EE /* PBXTextBookmark */;
+			82CB61ED127BF314001A0AFB = 82CB61ED127BF314001A0AFB /* PlistBookmark */;
+			82FA367C1273E2400071C1E7 = 82FA367C1273E2400071C1E7 /* PBXTextBookmark */;
+			82FA37E0127567C70071C1E7 = 82FA37E0127567C70071C1E7 /* PBXTextBookmark */;
+			82FA381E1275742E0071C1E7 = 82FA381E1275742E0071C1E7 /* PBXTextBookmark */;
+			82FCB4D71276A2230016DBE7 = 82FCB4D71276A2230016DBE7 /* PBXBookmark */;
+			82FCB4D81276A2230016DBE7 = 82FCB4D81276A2230016DBE7 /* PlistBookmark */;
+			82FCB4D91276A2230016DBE7 = 82FCB4D91276A2230016DBE7 /* PBXTextBookmark */;
+			82FCB4DB1276A2230016DBE7 = 82FCB4DB1276A2230016DBE7 /* PBXBookmark */;
+		};
+		sourceControlManager = 82FA351C12729FC60071C1E7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {738, 565}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	8256A6F812B24CBE0034E2EE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* DFUBootAppDelegate.m */;
+		name = "DFUBootAppDelegate.m: 261";
+		rLen = 513;
+		rLoc = 8900;
+		rType = 0;
+		vrLen = 1069;
+		vrLoc = 8598;
+	};
+	8256A70712B24CEF0034E2EE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* DFUBootAppDelegate.m */;
+		name = "DFUBootAppDelegate.m: 261";
+		rLen = 513;
+		rLoc = 8900;
+		rType = 0;
+		vrLen = 1132;
+		vrLoc = 535;
+	};
+	8256A71012B24D310034E2EE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* DFUBootAppDelegate.m */;
+		name = "DFUBootAppDelegate.m: 261";
+		rLen = 513;
+		rLoc = 8900;
+		rType = 0;
+		vrLen = 1131;
+		vrLoc = 536;
+	};
+	8256A71112B24D310034E2EE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* DFUBootAppDelegate.m */;
+		name = "DFUBootAppDelegate.m: 261";
+		rLen = 513;
+		rLoc = 8900;
+		rType = 0;
+		vrLen = 1131;
+		vrLoc = 536;
+	};
+	8256A71612B24D310034E2EE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+	};
+	8256A71712B24D310034E2EE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 238;
+		vrLoc = 0;
+	};
+	8256A71A12B24D310034E2EE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* DFUBootAppDelegate.h */;
+	};
+	8256A71B12B24D310034E2EE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* DFUBootAppDelegate.h */;
+		name = "DFUBootAppDelegate.h: 31";
+		rLen = 0;
+		rLoc = 1051;
+		rType = 0;
+		vrLen = 1328;
+		vrLoc = 0;
+	};
+	82CB61ED127BF314001A0AFB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* DFUBoot-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/DFUBoot-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	82FA351012729FBA0071C1E7 /* DFUBoot */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DFUBoot;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+	};
+	82FA351C12729FC60071C1E7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82FA351D12729FC60071C1E7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	82FA367C1273E2400071C1E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82FA367D1273E2400071C1E7 /* iDFUAppDelegate.m */;
+		name = "iDFUAppDelegate.m: 91";
+		rLen = 236;
+		rLoc = 2987;
+		rType = 0;
+		vrLen = 1514;
+		vrLoc = 1851;
+	};
+	82FA367D1273E2400071C1E7 /* iDFUAppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = iDFUAppDelegate.m;
+		path = "/Users/Bennyy/Documents/My Applications/iDFU/iDFUAppDelegate.m";
+		sourceTree = "<absolute>";
+	};
+	82FA37CD12755F620071C1E7 /* DeviceTypes.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 618}}";
+			sepNavSelRange = "{0, 600}";
+			sepNavVisRange = "{0, 601}";
+		};
+	};
+	82FA37E0127567C70071C1E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82FA37CD12755F620071C1E7 /* DeviceTypes.plist */;
+		name = "DeviceTypes.plist: 1";
+		rLen = 600;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 0;
+	};
+	82FA381E1275742E0071C1E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	82FCB4D71276A2230016DBE7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 82FA389A12765D590071C1E7 /* DFUBoot.png */;
+	};
+	82FCB4D81276A2230016DBE7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 82FCB471127670F30016DBE7 /* ap.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"AppleTV2,1",
+		);
+		name = "/Users/Bennyy/Documents/My Applications/iTools/DFUBoot/ap.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	82FCB4D91276A2230016DBE7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* DFUBootAppDelegate.h */;
+		name = "DFUBootAppDelegate.h: 31";
+		rLen = 0;
+		rLoc = 1051;
+		rType = 0;
+		vrLen = 1334;
+		vrLoc = 0;
+	};
+	82FCB4DB1276A2230016DBE7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 82FCB4CA1276A17B0016DBE7 /* DFUBoot.icns */;
+	};
+	8D1107260486CEB800E47090 /* DFUBoot */ = {
+		activeExec = 0;
+		executables = (
+			82FA351012729FBA0071C1E7 /* DFUBoot */,
+		);
+	};
+	8D1107310486CEB800E47090 /* DFUBoot-Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 595}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1002}";
+		};
+	};
+}
